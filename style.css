@@ -1,0 +1,168 @@
+.container {
+    width: 1600px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.headmenu {
+    background: #222222;
+
+}
+
+.menuleft {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 859px;
+
+
+}
+
+.menuright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    margin-left: 30px;
+}
+
+.register {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.headcontent {
+    display: flex;
+    background: #F1E4E6;
+}
+
+.headimg {
+    width: 800.58px;
+    height: 764px;
+    left: 0px;
+    top: 75px;
+
+}
+
+.headtext {
+    display: flex;
+
+    align-items: center;
+
+
+}
+
+.thebrand {
+    font-family: 'Lato';
+    font-style: normal;
+
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: bold;
+    color: #222222;
+
+}
+
+.line {
+    margin-right: 16px;
+
+}
+
+.text {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #222222;
+}
+
+span {
+    color: #F16D7F;
+}
+
+.containercard {
+    width: 1140px;
+    margin-left: 230px;
+
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+
+.forwomen {
+    background-image: url("image/forwomen.png");
+    background-position: center;
+    width: 360px;
+    height: 260px;
+}
+
+.formen {
+    background-image: url("image/formen.png");
+    background-position: center;
+    width: 360px;
+    height: 260px;
+}
+
+.forkids {
+    background-image: url("image/forkid.png");
+    background-position: center;
+    width: 360px;
+    height: 260px;
+}
+
+.acces {
+    background-image: url("image/acces.png");
+    background-position: center;
+    width: 1140px;
+    height: 180px;
+    margin-top: 30px;
+}
+
+.forwomentext {
+    margin-top: 105px;
+}
+
+.formentext {
+    margin-top: 105px;
+}
+
+.forkidstext {
+    margin-top: 105px;
+}
+
+.acctext {
+    padding-top: 65px;
+
+}
+
+
+.cardtext {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.cardtext_red {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+}
